@@ -1,9 +1,9 @@
 # 🐍Gabriel Cidade Feitosa
 **`Desenvolvedor`**
 
-Meu nome é Gabriel Cidade Feitosa, sou biomédico formado pela Universidade Católica de Brasília - UCB. Atualmente estou cursando mestrado em Patologia Molecular pela Universidade de Brasília e aprendendo sozinho a programar por Python e Java. Eu amo estudar e aprender. Espero ser bem acolhido pela comunidade de Devs. Desde já, agradeço a todos que quiserem contribuir com minha jogrnada.
+Meu nome é Gabriel Cidade Feitosa, sou biomédico formado pela Universidade Católica de Brasília - UCB. Mestre em Patologia Molecular pela Universidade de Brasília e aprendendo sozinho a programar com Python e Java. Eu amo estudar e aprender. Espero ser bem acolhido pela comunidade de Devs. Desde já, agradeço a todos que quiserem contribuir com minha jornada.
 
-My name is Gabriel Cidade Feitosa. I am a biomedical scientist, graduated from the Universidade Católica de Brasília (UCB). I am currently pursuing a master’s degree in Molecular Pathology at the University of Brasília and teaching myself how to program in Python and Java. I love studying and learning. I hope to be warmly welcomed by the developer community. Thank you in advance to everyone who wishes to contribute to my journey.
+My name is Gabriel Cidade Feitosa. I am a biomedical scientist graduated from the Catholic University of Brasília (UCB). I hold a Master's degree in Molecular Pathology from the University of Brasília and am currently self-teaching programming in Python and Java. I am passionate about studying and continuously expanding my knowledge. I look forward to being warmly welcomed by the developer community and to learning from the experience and expertise of its members. I would like to express my sincere gratitude in advance to everyone who is willing to contribute to and support my journey.
 
 <p align="left">
       <a href="https://github.com/GCidadeF?tab=followers">
